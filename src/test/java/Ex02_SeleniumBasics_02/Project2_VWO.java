@@ -35,5 +35,6 @@ public class Project2_VWO {
         Assert.assertEquals(content.getText(),"Your email, password, IP address or location did not match");
 
         driver.quit();
+
     }
 }
