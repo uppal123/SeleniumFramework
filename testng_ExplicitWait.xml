@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/poojauppal/Documents/IntelliJ/SeleniumFramework/src/test/java/Ex02_SeleniumBasics_02/Project6_ExplicitWait_vwo.java">
+        <classes>
+            <class name="Ex02_SeleniumBasics_02.Project6_ExplicitWait_vwo">
+                <methods>
+                    <include name="test_ExplicitWait"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
