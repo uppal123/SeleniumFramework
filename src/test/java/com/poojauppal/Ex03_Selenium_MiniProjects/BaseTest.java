@@ -4,7 +4,6 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
 
 import static com.poojauppal.Ex03_Selenium_MiniProjects.WaitHelper.waitJVM;
 
